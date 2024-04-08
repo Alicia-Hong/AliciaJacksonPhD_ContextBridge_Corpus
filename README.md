@@ -1,6 +1,9 @@
 # AliciaJacksonPhD_ContextBridge_Corpus
 Sharing dataset curated for my PhD Thesis Work CCCCB "Context Bridge"
 
+Dissertation Title: Bridging The Context Gap:
+An LLM Fine-Tuning Framework for Emotional and Cultural Parsing in Chinese Movie Dialogues
+
 Data will be added iteratively from April-June 2024
 
 
