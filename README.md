@@ -46,7 +46,8 @@ The evaluation process involved a custom questionnaire, which can be found in th
 
 While the source code for the ContextBridge UI is not included in this repository, we've provided a demo picture to showcase the model's capabilities and the user interface design.
 
-![ContextBridge UI Demo](path/to/demo_picture.png)
+![ContextBridge UI Demo](ContextBRIDGE%20frontend.PNG)
+![ContextBridge Process](ContextBRIDGE%20process%203.png)
 
 ## Software
 Data pipeline, finetuning and automation are scripted using Python 3.7 (Spyder) software.
