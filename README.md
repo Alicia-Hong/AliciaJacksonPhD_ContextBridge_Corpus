@@ -1,6 +1,6 @@
 # Bridging The Context Gap: An LLM Fine-Tuning Framework for Context Parsing in Chinese Dialogues
 
-This repository contains the data, code, and resources used in the thesis project "Bridging The Context Gap: An LLM Fine-Tuning Framework for Context Parsing in Chinese Dialogues". The project focuses on developing a novel approach to fine-tune Large Language Models (LLMs) for improved context understanding in Chinese dialogues.
+This repository contains the data, code, and resources used in the thesis project "Bridging The Context Gap: An LLM Fine-Tuning Framework for Context Parsing in Chinese Dialogues". The project focuses on developing a novel approach to fine-tune Large Language Models (LLMs) for improved context understanding in Chinese dialogues as part of a PhD thesis dissertation.
 
 ## Repository Contents
 
