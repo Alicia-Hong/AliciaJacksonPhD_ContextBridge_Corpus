@@ -44,7 +44,9 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Li6R9VDZmwwG8IvEriaiUVWVm06zf
 
 ## Evaluation
 
-The evaluation process involved a custom questionnaire, which can be found in the `evaluation` directory. For transparency and reproducibility, we've included R scripts used for statistical analysis of the model's output and accuracy metrics.
+The evaluation process involved a custom questionnaire, which can be found in the `evaluation` directory. For transparency and reproducibility, we've included R scripts used for statistical analysis of the model's output and accuracy metrics. Accuracy and loss data is collected through openai [Weights & Biases](https://docs.wandb.ai/guides/integrations/openai/) integration.
+The model's validation accuracy reached a high of 93.73%
+![image](https://github.com/user-attachments/assets/3e8aa247-cdfb-47c1-8daf-38b2f29c3f94)
 
 ## ContextBridge UI
 
