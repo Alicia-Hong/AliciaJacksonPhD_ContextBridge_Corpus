@@ -48,7 +48,7 @@ The evaluation process involved a custom questionnaire, which can be found in th
 
 ## ContextBridge UI
 
-The 'application' directory contains the source code for the ContextBridge UI, backend routing, and data feed configuration. Below are demo images showcasing the model's capabilities and the user interface design, including input and output views.
+The `application` directory contains the source code for the ContextBridge UI, backend routing, and data feed configuration. Below are demo images showcasing the model's capabilities and the user interface design, including input and output views.
 
 ![ContextBridge UI Demo](application/ContextBRIDGE%20frontend.PNG)
 ![ContextBridge Process](application/ContextBRIDGE%20processed.png)
