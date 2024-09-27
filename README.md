@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSt3J_9BW7RtYn-Jnh5Ficc9udbZfm4W
 
 ## Data Processing and Model Training
 
-The `data_processing` directory contains Python scripts used for preprocessing the raw data. The `model_training` directory includes the code used to train the model, along with any necessary configuration files.
+The `training_data` directory contains preprocessed training data and metadata used for the model and statistical analysis. The `model_training` directory includes the python scripts used to train the model, along with any necessary configuration files.
 
 The Data Training and Analysis Summaries are documented here: 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Li6R9VDZmwwG8IvEriaiUVWVm06zfYEfswDaTmfLm7ozSFYuY09vCEtDII-IqpSm-jAXU0y2m-2x/pubhtml
