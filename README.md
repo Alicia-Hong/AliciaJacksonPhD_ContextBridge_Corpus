@@ -10,7 +10,7 @@ This repository contains the data, code, and resources used in the thesis projec
    - Annotation scheme used for data labeling
 
 2. **Data Processing**
-   - Python scripts for data preprocessing
+   - Preprocessed data with annotations and evaluation scores
    - Description of the data pipeline developed for annotation
 
 3. **Model Training**
@@ -19,10 +19,12 @@ This repository contains the data, code, and resources used in the thesis projec
 
 4. **Evaluation**
    - Questionnaire developed for evaluation tasks
+   - Evaluator demographics
    - R scripts for statistical analysis of model output and accuracy
 
 5. **ContextBridge UI**
    - Demo picture of the ContextBridge user interface
+   - Python scripts for data preprocessing
 
 ## Data Collection and Annotation
 
@@ -46,10 +48,10 @@ The evaluation process involved a custom questionnaire, which can be found in th
 
 ## ContextBridge UI
 
-While the source code for the ContextBridge UI is not included in this repository, we've provided a demo picture to showcase the model's capabilities and the user interface design.
+The 'application' directory contains the source code for the ContextBridge UI, backend routing, and data feed configuration. Below are demo images showcasing the model's capabilities and the user interface design, including input and output views.
 
-![ContextBridge UI Demo](ContextBRIDGE%20frontend.PNG)
-![ContextBridge Process](ContextBRIDGE%20processed.png)
+![ContextBridge UI Demo](application/ContextBRIDGE%20frontend.PNG)
+![ContextBridge Process](application/ContextBRIDGE%20processed.png)
 
 ## Software
 Data pipeline, finetuning and automation are scripted using Python 3.7 (Spyder) software.
