@@ -28,12 +28,14 @@ This repository contains the data, code, and resources used in the thesis projec
 
 The training data consists of movie scripts, predominantly in Mandarin Chinese. A custom data pipeline was developed to facilitate the annotation process. 100 evaluators were hired to ensure high-accuracy output for model training. The annotation scheme and metadata are provided to aid in understanding the data structure and labeling criteria.
 
-The Annotation Schemes are published here: 
+The `training_data` directory contains preprocessed training data and metadata used for the model and statistical analysis. 
+
+The Annotation Schemes are published here, following by the movie annotation outputs: 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSt3J_9BW7RtYn-Jnh5Ficc9udbZfm4Wq4Dn2fM0gEkmiLa8HLChNj_MJ08cx7oqdPaSia9gt4qL-jS/pubhtml
 
 ## Data Processing and Model Training
 
-The `training_data` directory contains preprocessed training data and metadata used for the model and statistical analysis. The `model_training` directory includes the python scripts used to train the model, along with any necessary configuration files.
+The `model_training` directory includes the python scripts used to train the model, along with any necessary configuration files.
 
 The Data Training and Analysis Summaries are documented here: 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Li6R9VDZmwwG8IvEriaiUVWVm06zfYEfswDaTmfLm7ozSFYuY09vCEtDII-IqpSm-jAXU0y2m-2x/pubhtml
