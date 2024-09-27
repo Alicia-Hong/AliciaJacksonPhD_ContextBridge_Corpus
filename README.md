@@ -30,7 +30,7 @@ The training data consists of movie scripts, predominantly in Mandarin Chinese. 
 
 The `training_data` directory contains preprocessed training data and metadata used for the model and statistical analysis. 
 
-The Annotation Schemes are published here, following by the movie annotation outputs: 
+The Annotation Schemes are published here, following by the movie annotation outputs as well as individual evaluation scores: 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSt3J_9BW7RtYn-Jnh5Ficc9udbZfm4Wq4Dn2fM0gEkmiLa8HLChNj_MJ08cx7oqdPaSia9gt4qL-jS/pubhtml
 
 ## Data Processing and Model Training
