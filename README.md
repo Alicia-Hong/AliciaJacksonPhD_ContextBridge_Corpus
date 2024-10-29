@@ -45,12 +45,14 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Li6R9VDZmwwG8IvEriaiUVWVm06zf
 ## Evaluation
 
 The `evaluation` directory contains a custom qualtrics questionnaire for the quality assurance and evaluation process. For transparency and reproducibility, R scripts used for statistical analysis of the model's output and accuracy metrics are included. Accuracy and loss data is collected through openai [Weights & Biases](https://docs.wandb.ai/guides/integrations/openai/) integration.
-The model's validation accuracy reached a high of 93.73%
+The model's highest validation accuracy reached 93.73%
 ![image](https://github.com/user-attachments/assets/3e8aa247-cdfb-47c1-8daf-38b2f29c3f94)
 
 ## ContextBridge UI
 
-The `application` directory contains the source code for the ContextBridge UI, backend routing, and data feed configuration. The demo site is locally hosted and powered by the python package 'Flask'. Below are demo images showcasing the model's capabilities and the user interface design, including input and output views.
+The `application` directory contains the source code for the ContextBridge UI, backend routing, and data feed configuration. 
+The demo site is locally hosted and powered by the python package 'Flask'. 
+Below are demo images showcasing the model's capabilities and the user interface design, including input and output views.
 
 ![ContextBridge UI Demo](application/ContextBRIDGE%20frontend.PNG)
 ![ContextBridge Process](application/ContextBRIDGE%20processed.png)
