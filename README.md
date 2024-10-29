@@ -24,7 +24,7 @@ This repository contains the data, code, and resources used in the thesis projec
 
 5. **ContextBridge UI**
    - Demo picture of the ContextBridge user interface
-   - Python scripts for data preprocessing
+   - Python scripts for the backend using Flask
 
 ## Data Collection and Annotation
 
@@ -50,7 +50,7 @@ The model's validation accuracy reached a high of 93.73%
 
 ## ContextBridge UI
 
-The `application` directory contains the source code for the ContextBridge UI, backend routing, and data feed configuration. Below are demo images showcasing the model's capabilities and the user interface design, including input and output views.
+The `application` directory contains the source code for the ContextBridge UI, backend routing, and data feed configuration. The demo site is locally hosted and powered by the python package 'Flask'. Below are demo images showcasing the model's capabilities and the user interface design, including input and output views.
 
 ![ContextBridge UI Demo](application/ContextBRIDGE%20frontend.PNG)
 ![ContextBridge Process](application/ContextBRIDGE%20processed.png)
